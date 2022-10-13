@@ -1,0 +1,1 @@
+# class_point_and_class_moveablePoint
